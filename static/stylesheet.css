@@ -1,0 +1,53 @@
+/*--------------
+    GERNERIC STYLING
+----------------*/
+.navbar {
+    height: 65px;
+    max-height: 340px;
+    width:100%;
+}
+
+h1 {
+    font-size: 50px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+h2 {
+    font-size: 25px;
+    font-weight: 100;
+}
+
+h3 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}
+
+#couchpopup {
+    background-color: darkolivegreen;
+}
+
+/*---------------
+    CAROUSEL
+---------------*/
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+/*----------------
+    FOOTER STYLING
+-----------------*/
+#footer {
+    background-color: gray;
+    color: #000;
+    text-shadow: 2px 2px 8px 0 rgba(0, 0, 0, 1);
+    padding: 20px 50px 20px 50px;
+    text-align: center;
+    display: block;
+    margin: auto;
+    position: sticky;
+    width: 100%;
+    
+}
